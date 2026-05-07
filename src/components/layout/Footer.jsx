@@ -12,7 +12,7 @@ export default function Footer() {
               <img
                 src="/img/Logo-st.jpg"
                 alt="SafeTrack Logo"
-                className="h-10 w-10 rounded-full object-cover"
+                className="h-10 w-10 rounded-lg object-cover"
               />
               <span className="text-xl font-bold text-background tracking-tight">
                 SafeTrack
